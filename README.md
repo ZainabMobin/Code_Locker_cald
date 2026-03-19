@@ -110,7 +110,7 @@ The 74LS85 comparator provides continuous password checking:
 
 **Circuit Design:**
 
-![design](images/design.jpg)
+![design](images/design.JPG)
 
 **Schematics:**
 
